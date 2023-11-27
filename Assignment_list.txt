@@ -1,0 +1,8 @@
+perm (DONE)
+revp (DONE)
+lexf (DONE)
+kmp (DONE)
+ctbl (DONE)
+cunr (DONE)
+eubt (DONE)
+sset (DONE)

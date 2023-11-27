@@ -1,0 +1,15 @@
+((Actitis_carbo,(Machetes_hendricksoni,(Sterna_versicolor,Cuora_diffidens))))Tropidurus_troglodytes;
+((Actitis_carbo,(Sterna_versicolor,(Machetes_hendricksoni,Cuora_diffidens))))Tropidurus_troglodytes;
+((Actitis_carbo,(Cuora_diffidens,(Sterna_versicolor,Machetes_hendricksoni))))Tropidurus_troglodytes;
+((Cuora_diffidens,(Machetes_hendricksoni,(Sterna_versicolor,Actitis_carbo))))Tropidurus_troglodytes;
+((Cuora_diffidens,(Actitis_carbo,(Sterna_versicolor,Machetes_hendricksoni))))Tropidurus_troglodytes;
+((Cuora_diffidens,(Sterna_versicolor,(Actitis_carbo,Machetes_hendricksoni))))Tropidurus_troglodytes;
+((Machetes_hendricksoni,(Actitis_carbo,(Sterna_versicolor,Cuora_diffidens))))Tropidurus_troglodytes;
+((Machetes_hendricksoni,(Sterna_versicolor,(Actitis_carbo,Cuora_diffidens))))Tropidurus_troglodytes;
+((Machetes_hendricksoni,(Cuora_diffidens,(Sterna_versicolor,Actitis_carbo))))Tropidurus_troglodytes;
+((Sterna_versicolor,(Machetes_hendricksoni,(Actitis_carbo,Cuora_diffidens))))Tropidurus_troglodytes;
+((Sterna_versicolor,(Actitis_carbo,(Machetes_hendricksoni,Cuora_diffidens))))Tropidurus_troglodytes;
+((Sterna_versicolor,(Cuora_diffidens,(Actitis_carbo,Machetes_hendricksoni))))Tropidurus_troglodytes;
+(((Sterna_versicolor,Actitis_carbo),(Machetes_hendricksoni,Cuora_diffidens)))Tropidurus_troglodytes;
+(((Machetes_hendricksoni,Actitis_carbo),(Sterna_versicolor,Cuora_diffidens)))Tropidurus_troglodytes;
+(((Sterna_versicolor,Machetes_hendricksoni),(Actitis_carbo,Cuora_diffidens)))Tropidurus_troglodytes;
